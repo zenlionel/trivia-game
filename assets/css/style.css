@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+	
+}
+.boku{
+    align-content: center;
+    
+}
+.jay {
+    display: none;
+}
+.qball{
+    margin: 2%;
+    
+}
